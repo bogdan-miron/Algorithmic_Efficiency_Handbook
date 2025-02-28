@@ -58,15 +58,12 @@ Welcome to the **Algorithmic Efficiency Handbook**, a comprehensive guide to adv
 
 ## About the Book
 
-The **Algorithmic Efficiency Handbook** is designed to provide readers with a deep understanding of advanced algorithms and their applications. Each chapter focuses on a specific domain, offering clear explanations, practical examples, and problem-solving techniques. Whether you're preparing for competitive programming or seeking to enhance your algorithmic skills, this book is an invaluable resource.
+The **Algorithmic Efficiency Handbook** is designed to provide readers with a deep understanding of advanced algorithms and their applications. Each chapter focuses on a specific domain, offering clear explanations, practical examples, and problem-solving techniques. This book is being used by Romanian students to prepare for national and international contests and serves as a resource for professors.
 
 ---
 
-## Key Features
-
 - **Comprehensive Coverage**: Explores a wide range of topics, from string algorithms to computational geometry and dynamic programming.
 - **Practical Examples**: Includes real-world problems and solutions to help readers apply concepts effectively.
-- **Advanced Techniques**: Covers cutting-edge algorithms like FFT, Aho-Corasick, and genetic algorithms.
 - **Structured Learning**: Each chapter builds on the previous one, ensuring a smooth learning curve.
 
 ---
@@ -76,7 +73,7 @@ The **Algorithmic Efficiency Handbook** is designed to provide readers with a de
 This handbook is suitable for:
 - **Competitive Programmers**: Enhance your problem-solving skills and tackle international-level challenges.
 - **Students and Researchers**: Gain a deeper understanding of algorithmic techniques and their applications. This book is used to prepare Romanian students for national/international contests.
-- **Software Engineers**: Learn efficient algorithms to optimize your code and solve complex problems.
+- **Software Engineers**: Learn efficient algorithms to optimize your code and solve complex problems. Also, technical interviews :).
 
 ---
 
